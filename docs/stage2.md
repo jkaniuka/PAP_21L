@@ -1,8 +1,9 @@
 # Prototyp aplikacji :video_game: 
 
 ### Architektura aplikacji :construction_worker:
-<img src="uploads/8d991e209e514ed7b6dc6fd31b42ecdf/image.png" width="600" height="300"> 
-   
+<img src="https://user-images.githubusercontent.com/80155305/217678648-af1abc48-6831-4966-94b9-fc43646d7cbd.png" width="600" height="300"> 
+
+
   
   
 **Frontend** - przy użyciu Scene Builder stworzyliśmy ekrany menu aplikacji z przyciskami funkcyjnymi. Projektowanie odbywa się metodą _drag&drop_, a rezultat zapisywany jest w pliku o formacie ._fxml_.  
