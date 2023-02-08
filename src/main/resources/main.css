@@ -1,0 +1,98 @@
+
+@font-face {
+  font-family: 'Alegreya';
+  src: url('Alegreya-Italic-VariableFont_wght.ttf');
+}
+
+/**Definicja stylu dla głównych przycisków**/
+.main-button {
+  -fx-padding: 5px;
+      padding: 5px;
+  -fx-border-insets: 5px;
+  -fx-background-insets: 5px;
+  -fx-font-size: 35px;
+      font-size: 35px;
+  -fx-font-family: 'Alegreya';
+      font-family: 'Alegreya';
+  -fx-background-color:  #99ccff ;
+      background-color:  #99ccff ;
+  -fx-text-alignment: center;
+}
+
+/**Definicja stylu dla głównych przycisków podczas najeżdzania myszką**/
+.main-button:hover {
+  -fx-padding: 5px;
+      padding: 5px;
+  -fx-border-insets: 5px;
+  -fx-background-insets: 5px;
+  -fx-font-size: 45px;
+      font-size: 45px;
+}
+
+/**Definicja stylu dla przycisków**/
+.custom-button {
+  -fx-padding: 1px;
+      padding: 1px;
+  -fx-border-insets: 5px;
+  -fx-background-insets: 5px;
+  -fx-text-alignment: center;
+  -fx-font-size: 18px;
+      font-size: 18px;
+  -fx-font-family: 'Alegreya';
+      font-family: 'Alegreya';
+  -fx-background-color:  #99ccff ;
+      background-color:  #99ccff ;
+}
+
+/**Definicja stylu dla przycisków podczas najeżdzania myszką**/
+.custom-button:hover {
+  -fx-padding: 1px;
+      padding: 1px;
+  -fx-border-insets: 5px;
+  -fx-background-insets: 5px;
+  -fx-font-size: 20px;
+      font-size: 20px;
+  -fx-background-color:  #83b8ec ;
+      background-color:  #83b8ec ;
+  -fx-effect: dropshadow(gaussian, #7cb0df, 1, 0, 1, 1); 
+}
+
+/**Definicja stylu dla przycisków "bistabilnych"**/
+.select-button {
+  -fx-margin-top: 1px;
+      margin-top: 1px;
+  -fx-padding-top: 1px;
+      padding-top: 1px;
+  -fx-text-alignment: center;
+  -fx-font-size: 15px;
+      font-size: 15px;
+  -fx-font-family: 'Alegreya';
+      font-family: 'Alegreya';
+  -fx-background-color:  #99ccff ;
+      background-color:  #99ccff ;
+}
+
+/**Definicja stylu dla przycisków "bistabilnych" podczas najeżdzania myszką**/
+.select-button:hover {
+  -fx-font-size: 20px;
+      font-size: 20px;
+}
+
+/**Definicja stylu dla przycisków "bistabilnych" podczas wciśnięcia**/
+.select-button:selected {
+  -fx-font-weight: bold;
+      font-weight: bold;
+  -fx-font-size: 25px;
+      font-size: 25px;
+}
+
+/**Definicja stylu dla wybierania poziomu**/
+.choice-box {
+  -fx-background-color: rgb(255, 255, 255);
+      background-color: rgb(255, 255, 255);
+  -fx-mark-color: #99ccff; 
+}
+
+/**Definicja stylu dla wybierania poziomu**/
+.choice-box > .label {
+   -fx-text-fill: rgb(0, 0, 0); }
