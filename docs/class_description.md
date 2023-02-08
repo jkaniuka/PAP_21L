@@ -7,7 +7,7 @@
 - klasa bazowa, odpowiada za uruchomienie pierwszego okna programu,  
 - inicjuje połączenie z _DB_,  
 - odpowiada za wyświetlenie ekranu startowego z animacją i załadowanie formatki *.fxml* z Menu.
-## BaseMenager  :card_box: 
+## BaseMenager  :card_file_box:
 - klasa ta posiada statyczne pola prywatne zawierające informacje umożliwiające połączenie z bazą danych *(username, password, connection string)*,
 - obsługuje również rozłączenie z bazą po wyjściu z gry,
 - jej metody pozwalają na dodanie nowego gracza/zespołu/wyniku do DB jak i odczytanie tych rekordów z DB,
@@ -46,7 +46,7 @@
 ## MainController :file_cabinet: 
 - do zadań tej klasy należy "wstrzyknięcie" głównego _Pane'a_ w formacie *.fxml* do kontrolera,
 - ładuje również ekrany podrzędne go ekranu głównego.
-## MenuController :dividers: 
+## MenuController :card_index_dividers:
 - klasa obsługuje główne menu gry,   
 - do jej zadań należą m.in. przejście do menu wybory gry, umożliwienie przejrzenia statystyk, wyświetlenie instrukcji oraz wyjście z całej aplikacji po zakończeniu rozgrywki,  
 ## MiniMax  :game_die:  
