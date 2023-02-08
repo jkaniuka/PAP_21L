@@ -2,14 +2,13 @@
 ### Prowadzący: mgr inż. Piotr Maciąg  
 ### Członkowie zespołu: Jan Kaniuka, Przemysław Krasnodębski   
 
-**:red_circle: Nie realizujemy przedmiotu PAP równolegle z przedmiotem Bazy Danych (BD)** :file_folder:  
 **____________________________________________________________________________________________________________**  
   
-## Poszczególne etapy projektu zostały opisane w zakłace Wiki tego repozytorium:
-### [Etap 1](https://gitlab-stud.elka.pw.edu.pl/pkrasnod/pap21l-z12/-/wikis/%231-etap-projektu)
-### [Etap 2](https://gitlab-stud.elka.pw.edu.pl/pkrasnod/pap21l-z12/-/wikis/%232-etap-projektu)  
-### [Etap 3](https://gitlab-stud.elka.pw.edu.pl/pkrasnod/pap21l-z12/-/wikis/%233-etap-projektu)
-### [Etap 4](https://gitlab-stud.elka.pw.edu.pl/pkrasnod/pap21l-z12/-/wikis/%234-etap-projektu)
+## Opis poszczególnych etapów projektu: 
+### [Etap 1](https://github.com/jkaniuka/PAP_21L/blob/main/docs/stage1.md)
+### [Etap 2](https://github.com/jkaniuka/PAP_21L/blob/main/docs/stage2.md)
+### [Etap 3](https://github.com/jkaniuka/PAP_21L/blob/main/docs/stage3.md)
+### [Etap 4](https://github.com/jkaniuka/PAP_21L/blob/main/docs/stage4.md)
 
 
 
