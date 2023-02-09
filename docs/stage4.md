@@ -6,7 +6,8 @@
 ## Implementacja :notebook: :pencil2:  
 - wprowadzenie poprawek wskazanych przez Prowadzącego:  
 Na koniec trzeciego etapu Prowadzący zasugerował następujące modyfikacje:  
-![image](uploads/71588d1dd9496ecdf9ed21c2b581a85e/image.png)  
+![image](https://user-images.githubusercontent.com/80155305/217681429-00e7dca8-69f7-4fd5-896d-96d3875eb375.png)
+
 
 
 ### Wdrożenie zasugerowanych zmian :new: 
@@ -15,7 +16,7 @@ Na koniec trzeciego etapu Prowadzący zasugerował następujące modyfikacje:
     - `/src`- który wprowadza następującą strukturę plików: `main/java` - główne klasy aplikacji, `main/resources` - formatki _.fxml_ , pliki ze stylami _.css_, oraz czcionkami _.ttf_, `test/java` - klasy testujące. 
     -  `/.idea` - określa używane w projekcie biblioteki, które pobierane są z repozytorium *Maven'a*
 
-- Rozszerzyliśmy dotychczasowy opis klas czyniąc go bardziej szczegółowym, sprecyzowaliśmy zadania/funkcjonalności poszczególnych klas :pencil:. Aby wspomniane zadania przestawić w możliwie przejrzysty sposób dodaliśmy dodatkową zakładkę w Wiki - [_**Opis klas**_](https://gitlab-stud.elka.pw.edu.pl/pkrasnod/pap21l-z12/-/wikis/Opis-klas) . 
+- Rozszerzyliśmy dotychczasowy opis klas czyniąc go bardziej szczegółowym, sprecyzowaliśmy zadania/funkcjonalności poszczególnych klas :pencil:. Aby wspomniane zadania przestawić w możliwie przejrzysty sposób, utworzyliśmy dodatkowy dokument - [_**Opis klas**_](https://github.com/jkaniuka/PAP_21L/blob/main/docs/class_description.md). 
 
 
 
@@ -59,4 +60,5 @@ Prezentacja wprowadzonych zmian odbyła się na platformie _**MS Teams**_ :compu
 ## Elementy dodatkowe :star2:  
 - Stworzona przez nas gra jest aplikacją desktopową, więc nie było (z definicji) możliwe jej wdrożenie w środowisku chmurowym :cloud: (np. Heroku). 
 - Aby zwiększyć faktyczną użyteczność naszej aplikacji postanowiliśmy dodatkowo stworzyć plik **JAR** pozwalający uruchomić grę z poziomu pulpitu/ linii poleceń, a nie tylko przy użyciu IDE takiego jak VS Code.  
-<img src="uploads/0f899f03733ed50d025c633733d68613/image.png"  width="60" height="60">
+<img src="https://user-images.githubusercontent.com/80155305/217681575-12432feb-4b4a-433a-aeac-082b80d1dd2a.png"  width="60" height="60">
+
